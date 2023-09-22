@@ -1,0 +1,60 @@
+body {
+  background-color: #7FB3D5;
+;
+
+}
+h1 {
+  color: #000000;
+}
+p {
+  font-family: fantasy;
+  color: #000000;
+}
+  ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  font-weight: bold;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+
+}
+
+li a:hover {
+  background-color: #F1C40F;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+h1{
+   margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  border-style: groove;
+   border-width: 5px 20px;
+  border-color: black;
+  border-radius: 12px;
+}
+  </style>
